@@ -6,7 +6,7 @@ This assignment has two sections:
 
 The task should be submitted by mail. The code part can be submitted by a git hub repo or a zip file.
 
-**Please Don't fork this repo!**
+**Please don't fork this repo!**
 
 ## Part A - Test scenarios
 
