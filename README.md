@@ -1,5 +1,5 @@
 # QA_candidate_task
-This home assignment for a QA position at Cymptom.
+This home assignment is for a QA position at Cymptom.
 This assignment has two sections:
 * Writing a manual testing STD (Software Test Description) file for a feature in cymptom product.
 * Writing a basic automated test suit with python and pytest for some simple python code.
