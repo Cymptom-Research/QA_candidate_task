@@ -31,23 +31,34 @@ There are two main features we want you to write tests for:
 * Issue display grouping
 ![image-20211114-090815](https://user-images.githubusercontent.com/92513421/142605785-40447be9-6729-479b-8c88-26b1930d9c53.png)
 
-
 Your task is to map out test steps for these features by yourself! 
 You end goal here will be to provide an STD file which you can send back by mail.
 
 If you are unsure of what any part of these features do, try to guess.
-Write down and assumptaions you made on unclear parts of the features at the end of the STD file.
+Write down and assumptions you made on unclear parts of the features at the end of the STD file.
 
 In your test scenarios, you should verify all components perform the way they should, both together and separately!
-Also please keep in mind there are two kinds of users for this system, `admin` and `viewer`
+Also, please keep in mind there are two kinds of users for this system, `admin` and `viewer`.
+**You should write tests for these features for both users!**
+Some actions are possible for one user and should be disabled for another.
+You should receive a viewer user with this assignment. 
+With it, you could run part of your tests and write their results.
+
+**It's ok to guess how should the viewer user work and what limitations it has by yourself!**
+as long as you write down any assumption you make if it's not clear from the test step or expected results.
 
 The table below is an example of an STD file and will be your template for this section. Each row is a test steps.
 In each step please make sure to fill in:
 * What results are expected
-* What was the actuale result 
+* What was the actual result 
 * If the test failed, please indicate what bugs you found and include screenshots.
 
-
+### Example STD file
+| Test Case ID | Test Scenario | Test Steps | Expected Results | Pass/Fail | Bugs |
+| ----------- | ----------- | ----------- |----------- |----------- |----------- |
+| 1 | Login with correct user and password | <ol><li>Insert user</li><li>Insert password</li><li>Click login button</li></ol> | Page should be navigate to the Dashboard
+| 2 |  |
+| 3 |  |
 
 ## Part B - Automation
 This section is aimed to test your ability to write a simple test suit for a simple python code.
