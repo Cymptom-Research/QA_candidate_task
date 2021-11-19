@@ -8,12 +8,9 @@ The task should be submitted by mail. The code part can be submitted by a git hu
 
 ###**Please Don't fork this repo!**
 
----
-
 ## Part A - Test scenarios
 Please view attached pdf file named part_a.pdf.
 
----
 
 ## Part B - Automation
 This section is aimed to test your ability to write a simple test suit for a simple python code.
