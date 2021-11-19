@@ -6,7 +6,6 @@
 # \____/\__, |_| |_| |_| .__/ \__\___/|_| |_| |_|
 #       |___/          |_|
 #
-# CYMPTOM LABS Copyright 2020. All rights reserved.
 #
 # Author: Ziv Kaspersky <ziv@cymptom.com> on 19/11/2021
 from calc import Calculator
