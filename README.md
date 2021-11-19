@@ -9,8 +9,20 @@ The task should be submitted by mail. The code part can be submitted by a git hu
 ###**Please Don't fork this repo!**
 
 ## Part A - Test scenarios
-Please view attached pdf file named part_a.pdf.
 
+### Writing an STD file
+A test scenario is a use case that defines the functionality that can be tested. 
+As a tester, you should consider in your tests real-world scenarios as part of the end-user's workflow.
+
+Your goal in this section is to write test scenarios for the Cymptom system Issue’s screen.
+You will receive as part of the task email, an url address for our test environment and a user and password for logging in.
+Pleas keep the logging information to yourself!
+
+Your user is an unprivileged "viewer" user. That means it shouldn't be allowed to change anything in the website.
+There are two main features we want you to write tests for:
+* Issue Actions
+* Issue display grouping
+* 
 
 ## Part B - Automation
 This section is aimed to test your ability to write a simple test suit for a simple python code.
