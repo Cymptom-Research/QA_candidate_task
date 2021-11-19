@@ -32,7 +32,22 @@ There are two main features we want you to write tests for:
 ![image-20211114-090815](https://user-images.githubusercontent.com/92513421/142605785-40447be9-6729-479b-8c88-26b1930d9c53.png)
 
 
-* 
+Your task is to map out test steps for these features by yourself! 
+You end goal here will be to provide an STD file which you can send back by mail.
+
+If you are unsure of what any part of these features do, try to guess.
+Write down and assumptaions you made on unclear parts of the features at the end of the STD file.
+
+In your test scenarios, you should verify all components perform the way they should, both together and separately!
+Also please keep in mind there are two kinds of users for this system, `admin` and `viewer`
+
+The table below is an example of an STD file and will be your template for this section. Each row is a test steps.
+In each step please make sure to fill in:
+* What results are expected
+* What was the actuale result 
+* If the test failed, please indicate what bugs you found and include screenshots.
+
+
 
 ## Part B - Automation
 This section is aimed to test your ability to write a simple test suit for a simple python code.
