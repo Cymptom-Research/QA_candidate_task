@@ -4,6 +4,9 @@ This assignment has two sections:
 * Writing a manual testing STD (Software Test Description) file for a feature in cymptom product.
 * Writing a basic automated test suit with python and pytest for some simple python code.
 
+The task should be submitted by mail. The code part can be submitted by a git hub repo or a zip file.
+###**Please Don't fork this repo!**
+
 ---
 
 ## Part A - Test scenarios
