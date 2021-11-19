@@ -19,9 +19,17 @@ You will receive as part of the task email, an url address for our test environm
 Pleas keep the logging information to yourself!
 
 Your user is an unprivileged "viewer" user. That means it shouldn't be allowed to change anything in the website.
+To open issue screen please log in to the url you have recived, and go to the issue screen (marked as a triangle with exclamation mark)
+![image](https://user-images.githubusercontent.com/92513421/142606033-5d2287fc-eb3d-4b4a-9423-9f7186273f4b.png)
+
 There are two main features we want you to write tests for:
 * Issue Actions
+![image-20211114-090623](https://user-images.githubusercontent.com/92513421/142605690-9068636d-2dc7-4a9b-8506-6bc63e7de962.png)
+
 * Issue display grouping
+![image-20211114-090815](https://user-images.githubusercontent.com/92513421/142605785-40447be9-6729-479b-8c88-26b1930d9c53.png)
+
+
 * 
 
 ## Part B - Automation
