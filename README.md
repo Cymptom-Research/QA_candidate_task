@@ -82,3 +82,5 @@ What does it do? can you update the docstring for that function to have the corr
 
 ## Assignment Submission
 As described before, by an email containing the STD file and a zip file or a GitHub repo containing the code for section two.
+
+**Good luck!**
