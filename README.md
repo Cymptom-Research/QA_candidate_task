@@ -18,6 +18,7 @@ Your goal in this section is to write test scenarios for the Cymptom system Issu
 You will receive as part of the task email, a URL address for our test environment and a user and password for logging in.
 Please keep the logging information to yourself!
 
+There are two kinds of users for our system "admin" and "viewer".
 Your user is an unprivileged "viewer" user. That means it shouldn't be allowed to change anything in the website.
 To open the issue screen please log in to the URL provided, and go to the issue screen (marked as a triangle with an 
 exclamation mark on the sidebar)
@@ -35,7 +36,7 @@ There are two main features we want you to write tests for:
 Your task is to map out test steps for these features by yourself! 
 Your end goal here will be to provide an STD file which you can send back by mail.
 
-If you are unsure of what any part of these features does, try to guess.
+If you are unsure what is the expected result for any feature try to guess.
 Write down any assumptions you made on unclear parts of the features at the end of the STD file.
 
 In your test scenarios, you should verify all components perform the way they should, both together and separately!
