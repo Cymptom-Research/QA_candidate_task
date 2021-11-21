@@ -23,7 +23,7 @@ Your user is an unprivileged "viewer" user. That means it shouldn't be allowed t
 To open the issue screen please log in to the URL provided, and go to the issue screen (marked as a triangle with an 
 exclamation mark on the sidebar)
 
-![image](https://user-images.githubusercontent.com/92513421/142606033-5d2287fc-eb3d-4b4a-9423-9f7186273f4b.png)
+![image (55)](https://user-images.githubusercontent.com/92513421/142758291-6340f148-fce0-4b48-be1f-c9635beb92c3.png)
 
 
 There are two main features we want you to write tests for:
