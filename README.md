@@ -72,13 +72,11 @@ The runner you will need for running these tests is pytest.
 
 ### Task
 
-1) Take a look at the calculator class in `calc.py`. Now, look at the test for that class in `test_calc.py`.
-look at the test file there, can you fill in the purpose of the last two tests?
-2) Now try to run the test with pytest. What happened? Can you fix the test so it will pass?
-3) can you add tests for the rest of the calculator functions?
-5) Take a look at the counter function in `counter.py`.
-What does it do? can you update the docstring for that function to have the correct explanation?
-6) Take a look at `test_counter.py`. Can you add a few tests for `counter.py` there?
+1) Check out the calculator class in `calc.py`.  In `test_calc.py`, you'll find the tests for that class. Fill in a comment the purpose of the last two tests.
+2) Now try to run the test with pytest. What happened? Correct the test so that it passes.
+3) Add tests for the remaining calculator functions.
+4) Check out the counter function in `counter.py`. What does it do? Update the docstring for that function to have the correct explanation.
+5) Take a look at `test_counter.py`. Can you add a few tests for `counter.py` there?
 
 
 ## Assignment Submission
